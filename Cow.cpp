@@ -19,4 +19,7 @@ int Cow :: getHeight(){
 int Cow :: getColor(){
         return color;
     }
+
+cout << "hi";
+
 }
