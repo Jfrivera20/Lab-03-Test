@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+using namespace std;
 
 void Cow :: setWeight(int w){
     weight = w;
@@ -19,7 +20,4 @@ int Cow :: getHeight(){
 int Cow :: getColor(){
         return color;
     }
-
-cout << "hi";
-
 }
